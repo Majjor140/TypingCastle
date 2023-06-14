@@ -1,5 +1,5 @@
 # TypingCastle
-TypingCastle-打字小遊戲，透過C#之鍵盤事件、滑鼠事件、動態生成怪物、控制血量等數據，製作一個以打字為主軸的塔房遊戲
+TypingCastle-打字小遊戲，透過C#之鍵盤事件、滑鼠事件、動態生成怪物、控制血量等數據，製作一個以打字為主軸的塔防遊戲
 
 ![image](https://github.com/Majjor140/TypingCastle/assets/117829042/56e6e392-5290-4d09-b162-94fa4722450b)
 
